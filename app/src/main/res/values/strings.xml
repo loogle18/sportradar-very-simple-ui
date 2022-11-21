@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Sportradar</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Game</string>
+    <string name="second_fragment_label">Summary</string>
+    <string name="next">Summary</string>
+    <string name="previous">Back</string>
+
+    <string name="hello_first_fragment">Start your first game!</string>
+    <string name="hello_second_fragment">Current game score: %1$s</string>
+</resources>
